@@ -1,0 +1,48 @@
+name: mobilfinall
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image: ^3.1.1
+  http: ^0.13.4
+  flutter_riverpod: ^2.4.9
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+  easy_localization: ^3.0.6
+  path_provider:
+  image_picker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/
+  - assets/translations/
+  - assets/json/data.json
+  - assets/image/porsche2.jpg
+  - assets/image/porsche1.jpg
+  - assets/image/Porsche3.jpg
+  - assets/image/Porsche4.jpg
+  - assets/image/Porsche5.jpg
+  - assets/image/Porsche6.jpg
+  - assets/image/Porsche7.jpg
+

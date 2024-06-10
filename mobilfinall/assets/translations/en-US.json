@@ -1,0 +1,10 @@
+{
+    "HomePage": "HomePage",
+    "RestApiPage": "API Page",
+    "JsonPage": "JSON Page",
+    "ImageLoadPage": "ImageLoadPage",
+    "Home": "Home",
+    "RestApi": "API",
+    "Json": "Json",
+    "ImageLoad":"ImageLoad"
+}
